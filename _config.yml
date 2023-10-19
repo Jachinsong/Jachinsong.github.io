@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaxing Song"
-  avatar           : "profile"
+  avatar           : "profile.png"
   bio              : "Creating the life of my dreams one day at a time."
   location         : "HongKong"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jiaxing-Song-6"
-  uri              :
+  uri              :  "https://Jachinsong.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
